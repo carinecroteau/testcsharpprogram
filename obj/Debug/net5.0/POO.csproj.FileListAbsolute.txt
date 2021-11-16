@@ -1,0 +1,16 @@
+C:\Users\ccroteau\Documents\A21\Programmation1\POO\bin\Debug\net5.0\POO.exe
+C:\Users\ccroteau\Documents\A21\Programmation1\POO\bin\Debug\net5.0\POO.deps.json
+C:\Users\ccroteau\Documents\A21\Programmation1\POO\bin\Debug\net5.0\POO.runtimeconfig.json
+C:\Users\ccroteau\Documents\A21\Programmation1\POO\bin\Debug\net5.0\POO.runtimeconfig.dev.json
+C:\Users\ccroteau\Documents\A21\Programmation1\POO\bin\Debug\net5.0\POO.dll
+C:\Users\ccroteau\Documents\A21\Programmation1\POO\bin\Debug\net5.0\ref\POO.dll
+C:\Users\ccroteau\Documents\A21\Programmation1\POO\bin\Debug\net5.0\POO.pdb
+C:\Users\ccroteau\Documents\A21\Programmation1\POO\obj\Debug\net5.0\POO.csproj.AssemblyReference.cache
+C:\Users\ccroteau\Documents\A21\Programmation1\POO\obj\Debug\net5.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccroteau\Documents\A21\Programmation1\POO\obj\Debug\net5.0\POO.AssemblyInfoInputs.cache
+C:\Users\ccroteau\Documents\A21\Programmation1\POO\obj\Debug\net5.0\POO.AssemblyInfo.cs
+C:\Users\ccroteau\Documents\A21\Programmation1\POO\obj\Debug\net5.0\POO.csproj.CoreCompileInputs.cache
+C:\Users\ccroteau\Documents\A21\Programmation1\POO\obj\Debug\net5.0\POO.dll
+C:\Users\ccroteau\Documents\A21\Programmation1\POO\obj\Debug\net5.0\ref\POO.dll
+C:\Users\ccroteau\Documents\A21\Programmation1\POO\obj\Debug\net5.0\POO.pdb
+C:\Users\ccroteau\Documents\A21\Programmation1\POO\obj\Debug\net5.0\POO.genruntimeconfig.cache
